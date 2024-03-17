@@ -1,0 +1,1 @@
+ C:\\Users\\Citra\\Documents\\kelompok5_challenge\\.dart_tool\\flutter_build\\fbac8de435e283cb44b1ca6648f6c319\\native_assets.yaml: 
